@@ -1,4 +1,4 @@
-# <CourseCode>_<CourseTitle>
+# CSCI3251 Engineering Practicum
 
 Very Large Scale Implementation Computer Aided Design (2025 Spring) @ CUHK CSE
 
